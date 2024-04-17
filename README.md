@@ -1,5 +1,10 @@
 # Application Roommate
 
+
+Architecture diagram:
+![Uploading Untitled Diagram.drawio.png…]()
+
+
 Backend Application installation:
 
 step1: Download the python latest version from this link https://www.python.org/downloads/
