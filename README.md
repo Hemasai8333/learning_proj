@@ -2,7 +2,8 @@
 
 
 Architecture diagram:
-![Uploading Untitled Diagram.drawio.png…]()
+![image](https://github.com/Hemasai8333/learning_proj/assets/115783953/b1379de9-2264-4dde-b84a-0fc1587a32c5)
+
 
 
 Backend Application installation:
